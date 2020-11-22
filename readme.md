@@ -1,3 +1,3 @@
 # Git Testing
 
-testing repository
+testing repo
